@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Roos St Regis Text';
+    src: url('RoosStRegisText-Regular.woff2') format('woff2'),
+        url('RoosStRegisText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

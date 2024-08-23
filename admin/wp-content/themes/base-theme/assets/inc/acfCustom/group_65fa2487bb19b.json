@@ -1,0 +1,90 @@
+{
+    "key": "group_65fa2487bb19b",
+    "title": "Datos legales",
+    "fields": [
+        {
+            "key": "field_65fa260a0aa8c",
+            "label": "Título",
+            "name": "titulo",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "show_in_graphql": 1,
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_65fa24acebc8d",
+            "label": "Contenido",
+            "name": "contenido",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "show_in_graphql": 1,
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1,
+            "delay": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page",
+                "operator": "==",
+                "value": "552"
+            }
+        ],
+        [
+            {
+                "param": "page",
+                "operator": "==",
+                "value": "550"
+            }
+        ],
+        [
+            {
+                "param": "page",
+                "operator": "==",
+                "value": "610"
+            }
+        ],
+        [
+            {
+                "param": "page",
+                "operator": "==",
+                "value": "614"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "show_in_graphql": 1,
+    "graphql_field_name": "datosLegales",
+    "map_graphql_types_from_location_rules": 0,
+    "graphql_types": "",
+    "modified": 1711560978
+}
